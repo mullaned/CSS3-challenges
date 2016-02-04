@@ -1,12 +1,23 @@
 
-.headline {
-
+body{
+	font-family: helvetica;
+	color: #ff784b;
+	text-align: left;
+	margin-left: 20%;
+	margin-right: 20%;
 }
+
+.headlines {
+	
+	color: #bd8100;
+}
+
+li {
+	color: #bd8100;
+}
+
 
 .paratext {
-
-}
-
-.lists {
-	
+	border-left: 1em solid #bd8100;
+	padding-left: 5px;
 }
