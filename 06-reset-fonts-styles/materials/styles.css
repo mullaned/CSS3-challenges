@@ -1,0 +1,64 @@
+body {
+	width:800px;
+	margin: 0 auto;
+	background: #e1eefd;
+
+}
+
+ul {
+	
+	margin-left: 600px;
+	padding: 15px;
+	background: #E9F5FE;
+	color: blue;
+	float: right;
+	position: absolute;
+	 
+
+}
+
+h1 {
+	background: url("images/bg_banner.jpg") no-repeat;
+    font-size: 3em;
+    font-weight: bold; 
+    height: 61px;
+    padding-top: 30px;
+    color: #fe6502;
+}
+
+h2 {
+	color: blue;
+	font-weight: bold;
+	font-size: 2.5em; 
+}
+
+h3 {
+	color: #fe6502;
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+	
+}
+
+p {
+
+}
+
+
+.title {
+	color: white;
+	font-weight: bold;
+	font-size: 70px;
+
+}
+
+.bodytext {
+	padding-left: 110px;
+	float: left;
+	
+}
+
+.bodytext::first-line {
+	color: grey;
+}
+
