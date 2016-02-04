@@ -41,3 +41,46 @@ table {
 	background: #E9F5FE;
 }
 
+body {
+	font-family: helvetica;
+	width:800px;
+	margin: 0 auto;
+	background: #cde6ff;
+
+}
+
+.sidebar p {
+	color: #b3977c;
+}
+
+.sidebar h2 {
+	color:lightblue;
+}
+
+h1 {
+    background: url('images/bg_body.png') no-repeat #cde6ff;
+    color: #b3977c;
+    font-size: 3em;
+    font-weight: bold; 
+    height: 61px;
+    padding-top: 130px;
+}
+
+.mainbodyhead {
+	background: url('images/bullet_flower.png') no-repeat #cde6ff;
+	color: orange;
+	padding:10px 0px 5px 60px;
+	font-size: 2em;
+	border-bottom: 3px solid white;
+}
+
+p.intro  {
+	color: blue;
+	padding: 10px;
+}
+
+ .mainbodytext {
+	padding-left: 60px;
+	padding-top: 10px;
+
+}
